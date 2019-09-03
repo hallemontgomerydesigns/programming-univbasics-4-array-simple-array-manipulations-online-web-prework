@@ -48,6 +48,9 @@ def using_flatten (array)
   array.flatten
 end
 
-def using_delete
+def using_delete (array, String)
+  instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
+  array.delete ("Steven")
+end
   
     
