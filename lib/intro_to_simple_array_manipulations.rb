@@ -47,4 +47,7 @@ def using_flatten (array)
   instruments = ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
   array.flatten
 end
+
+def using_delete
+  
     
