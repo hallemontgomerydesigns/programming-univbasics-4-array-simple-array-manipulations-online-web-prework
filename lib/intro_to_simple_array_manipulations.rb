@@ -40,3 +40,11 @@ def using_insert (array, another_language)
 end
   def using_uniq (array)
     haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
+    array.uniq
+end
+
+def
+    
+    
+    
+    
